@@ -60,7 +60,7 @@ Medidos con `evaluar.py`, tal como están en el repo.
 ## Qué limita esta versión
 
 - Búsqueda solo léxica: no entiende paráfrasis. Los ~8 grupos de sinónimos son un parche manual.
-- El conjunto de evaluación es pequeño (25 preguntas) y lo escribió quien escribió el sistema.
+- El conjunto de evaluación es pequeño (35 preguntas) y lo escribió quien escribió el sistema.
 - El paso de generación no usa un LLM real, así que **no se midió la calidad de la redacción**, solo la recuperación y el rechazo.
 - Las guías son 5 páginas; con un corpus mayor habría que revisar el umbral de rechazo.
 
