@@ -1,0 +1,150 @@
+{
+  "in_scope": [
+    {
+      "question": "¿Qué pasa si el chatbot no sabe responder una pregunta?",
+      "docs": [
+        "chatbot-whatsapp-costa-rica"
+      ],
+      "contains": [
+        "no inventa. avisa a una persona"
+      ]
+    },
+    {
+      "question": "¿Cuánto dura la ventana en la que puedo contestar libremente a un cliente en WhatsApp?",
+      "docs": [
+        "chatbot-whatsapp-costa-rica"
+      ],
+      "contains": [
+        "24 horas"
+      ]
+    },
+    {
+      "question": "¿Cómo evita el sistema registrar dos veces la misma factura?",
+      "docs": [
+        "automatizar-facturas-electronicas-costa-rica",
+        "cont-finance-contabilidad-automatica-costa-rica"
+      ],
+      "contains": [
+        "clave de 50 digitos"
+      ]
+    },
+    {
+      "question": "¿Con qué tipo de cambio se convierten las facturas en dólares?",
+      "docs": [
+        "automatizar-facturas-electronicas-costa-rica"
+      ],
+      "contains": [
+        "fecha de emision"
+      ]
+    },
+    {
+      "question": "¿Las notas de crédito suman o restan?",
+      "docs": [
+        "automatizar-facturas-electronicas-costa-rica"
+      ],
+      "contains": [
+        "restan"
+      ]
+    },
+    {
+      "question": "¿Cuánto tardaba un asistente en registrar facturas a mano en el caso del despacho contable?",
+      "docs": [
+        "automatizar-facturas-electronicas-costa-rica",
+        "automatizacion-de-negocios-costa-rica"
+      ],
+      "contains": [
+        "2 dias"
+      ]
+    },
+    {
+      "question": "¿Cómo se cobra Cont Finance?",
+      "docs": [
+        "cont-finance-contabilidad-automatica-costa-rica"
+      ],
+      "contains": [
+        "cliente activo del mes"
+      ]
+    },
+    {
+      "question": "¿Qué es un cliente activo?",
+      "docs": [
+        "cont-finance-contabilidad-automatica-costa-rica"
+      ],
+      "contains": [
+        "al menos una factura"
+      ]
+    },
+    {
+      "question": "¿Con qué herramientas de automatización trabaja CLOSE?",
+      "docs": [
+        "automatizacion-de-negocios-costa-rica"
+      ],
+      "contains": [
+        "n8n"
+      ]
+    },
+    {
+      "question": "¿Para qué tipo de trabajo sirve la semana de prueba?",
+      "docs": [
+        "condiciones-semana-de-prueba"
+      ],
+      "contains": [
+        "automatizaciones sencillas"
+      ]
+    },
+    {
+      "question": "¿Qué estados financieros genera Cont Finance?",
+      "docs": [
+        "cont-finance-contabilidad-automatica-costa-rica"
+      ],
+      "contains": [
+        "niif"
+      ]
+    },
+    {
+      "question": "¿Un asistente de mi equipo puede ver todos mis clientes?",
+      "docs": [
+        "cont-finance-contabilidad-automatica-costa-rica",
+        "automatizar-facturas-electronicas-costa-rica"
+      ],
+      "contains": [
+        "nadie ve un cliente",
+        "acceso solo a ciertos clientes"
+      ]
+    },
+    {
+      "question": "¿Qué hace falta para poner en marcha un chatbot en mi negocio?",
+      "docs": [
+        "chatbot-whatsapp-costa-rica"
+      ],
+      "contains": [
+        "un numero de whatsapp business"
+      ]
+    },
+    {
+      "question": "¿Las facturas rechazadas por Hacienda se suman al IVA?",
+      "docs": [
+        "cont-finance-contabilidad-automatica-costa-rica"
+      ],
+      "contains": [
+        "no se suman"
+      ]
+    },
+    {
+      "question": "¿Cuántos documentos reales se usaron para probar la lectura de facturas?",
+      "docs": [
+        "automatizar-facturas-electronicas-costa-rica"
+      ],
+      "contains": [
+        "800 documentos"
+      ]
+    }
+  ],
+  "out_of_scope": [
+    "¿Cuál es la capital de Francia?",
+    "¿Cuánto cuesta un iPhone 15?",
+    "¿Cómo se prepara un gallo pinto?",
+    "¿Quién ganó el Mundial de 2022?",
+    "¿Cómo configuro un servidor de Minecraft?"
+  ]
+}

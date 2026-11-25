@@ -1,0 +1,56 @@
+{
+  "in_scope": [
+    {
+      "question": "¿Qué pasa si falla una automatización?",
+      "docs": [
+        "automatizacion-de-negocios-costa-rica"
+      ],
+      "contains": [
+        "avisa si algo sale mal"
+      ]
+    },
+    {
+      "question": "¿Los datos de mis clientes están separados de los de otros despachos?",
+      "docs": [
+        "cont-finance-contabilidad-automatica-costa-rica",
+        "automatizar-facturas-electronicas-costa-rica"
+      ],
+      "contains": [
+        "no se comparten entre despachos",
+        "aislados de los demas"
+      ]
+    },
+    {
+      "question": "¿Cuánto cobra Meta por los mensajes?",
+      "docs": [
+        "chatbot-whatsapp-costa-rica"
+      ],
+      "contains": [
+        "puede cobrar por ciertos mensajes"
+      ]
+    },
+    {
+      "question": "¿Puedo probar Cont Finance gratis?",
+      "docs": [
+        "cont-finance-contabilidad-automatica-costa-rica"
+      ],
+      "contains": [
+        "probar gratis con un cliente"
+      ]
+    },
+    {
+      "question": "¿Qué tipos de negocio pueden usar un chatbot de WhatsApp?",
+      "docs": [
+        "chatbot-whatsapp-costa-rica"
+      ],
+      "contains": [
+        "clinicas y consultorios"
+      ]
+    }
+  ],
+  "out_of_scope": [
+    "¿Qué hora es en Tokio?",
+    "¿Cómo declaro la renta en Estados Unidos?",
+    "¿Cuál es la mejor pizza de Roma?"
+  ]
+}
