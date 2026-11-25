@@ -1,5 +1,6 @@
 🇬🇧 English · 🇪🇸 [Español](README.es.md)
 
+🎬 **Video walkthrough (English, ~9 min) of all four portfolio projects:** [watch](https://github.com/close-cr/close-cr/blob/main/media/portfolio-walkthrough.mp4)
 # RAG bot over the CLOSE guides (with evaluation)
 
 A bot that answers questions **only from the public guides on [closecr.com](https://closecr.com)**, cites its source, and says "I don't have that information" when the question is unrelated. It ships with an evaluation on questions with known answers, which is the part that matters most.

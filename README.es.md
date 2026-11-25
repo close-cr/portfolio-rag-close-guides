@@ -1,5 +1,6 @@
 🇬🇧 [English](README.md) · 🇪🇸 Español
 
+🎬 **Video (en inglés, ~9 min) que explica los cuatro proyectos del portafolio:** [verlo](https://github.com/close-cr/close-cr/blob/main/media/portfolio-walkthrough.mp4)
 # Bot RAG sobre las guías de CLOSE (con evaluación)
 
 Un bot que responde preguntas **solo con el contenido de las guías públicas de [closecr.com](https://closecr.com)**, cita la fuente y dice «no tengo esa información» cuando la pregunta no tiene que ver con ellas. Incluye una evaluación con preguntas de respuesta conocida, que es la parte que más importa.
