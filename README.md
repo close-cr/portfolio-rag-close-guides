@@ -74,3 +74,32 @@ Medidos con `evaluar.py`, tal como están en el repo.
 ## Fuente de los datos
 
 Las guías son contenido público de CLOSE (closecr.com), copiado como texto en `corpus/` con su URL. Si cambian en la web, se vuelve a correr `extraer_corpus.py`.
+
+## Experimentos
+
+Se corren con `python3 experimentos.py`. Los resultados de abajo son la salida real. El tercer conjunto (`preguntas_3.json`, 5 preguntas válidas y 3 fuera de tema) se escribió **antes** de correr nada.
+
+### 1. ¿Qué hace el umbral de rechazo? (con sinónimos)
+
+| Umbral | Conjunto | Falsos rechazos (válidas rechazadas) | Rechazo correcto (fuera de tema) |
+|---|---|---|---|
+| 0,3 | desarrollo | 0/15 | 4/5 |
+| 0,3 | verificación | 0/10 | 3/5 |
+| 0,3 | tercero | 0/5 | 1/3 |
+| **0,5** | desarrollo | 2/15 | 5/5 |
+| **0,5** | verificación | 2/10 | 5/5 |
+| **0,5** | tercero | 0/5 | 3/3 |
+| 0,7 | desarrollo | 7/15 | 5/5 |
+| 0,7 | verificación | 4/10 | 5/5 |
+| 0,7 | tercero | 3/5 | 3/3 |
+
+**Lectura:** es una compensación clara. Un umbral bajo (0,3) nunca rechaza una pregunta válida, pero deja pasar preguntas fuera de tema (1 de 3 rechazadas en el tercer conjunto). Uno alto (0,7) rechaza todo lo ajeno, pero también 7 de 15 preguntas válidas. El 0,5 equilibra, y se eligió antes de estos experimentos; aun así, con tan pocas preguntas no se puede afirmar que sea el óptimo.
+
+### 2. Tercer conjunto (umbral 0,5)
+
+| Versión | hit@1 | hit@3 | Falsos rechazos | Rechazo correcto |
+|---|---|---|---|---|
+| BM25 base | 4/5 | 4/5 | 0/5 | 3/3 |
+| + sinónimos | 4/5 | 4/5 | 0/5 | 3/3 |
+
+**Lectura:** aquí los sinónimos no cambian nada. Junto con el conjunto de verificación (donde hit@1 bajó y hit@3 subió), la evidencia es que **los sinónimos manuales ayudan poco y no de forma consistente**; el siguiente paso real son los embeddings.
