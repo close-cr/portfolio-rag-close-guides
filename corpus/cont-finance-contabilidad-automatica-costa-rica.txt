@@ -1,0 +1,52 @@
+URL: https://closecr.com/cont-finance-contabilidad-automatica-costa-rica.html
+TITULO: Cont Finance: contabilidad automática para contadores de Costa Rica | CLOSE
+
+Cont Finance: contabilidad automática para contadores de Costa Rica | CLOSE
+Un producto de CLOSE
+# Cont Finance: la contabilidad de tus clientes, casi sin digitar
+Actualizado el 11 de noviembre de 2026 · Por CLOSE, Costa Rica
+Cont Finance es la plataforma de contabilidad de CLOSE para contadores y despachos de Costa Rica: las facturas electrónicas de tus clientes se vuelven asientos, IVA para el formulario 150 y estados financieros, y tú revisas, decides y firmas.
+## ¿Qué es Cont Finance?
+Es una aplicación web, que también se instala como app en el celular, para quien lleva la contabilidad de varios clientes. En vez de digitar cada factura, el sistema la trae del correo del cliente o de un archivo XML o PDF, la lee, la clasifica y la deja contabilizada. Lo repetitivo lo hace el sistema; la revisión y la firma se quedan con el contador.
+Lo desarrollamos en CLOSE y vive en cont.finance.
+## Cómo funciona
+Llegan las facturas. Conectas el Gmail del cliente y un bot trae las facturas solas, todos los días. También puedes traer meses anteriores o arrastrar los archivos que te manden sueltos. El XML de Hacienda se lee directo; si solo tienes el PDF, se lee y queda marcado para que lo revises.
+Se vuelven asientos. Con la contabilidad automática encendida, cada factura que entra se convierte sola en su asiento. Un asiento nunca se borra: queda a la vista con su motivo.
+El IVA, listo. Ventas y compras por tarifa, crédito fiscal y prorrata, y el resultado del mes, listos para el formulario 150. Tú presentas en TRIBU-CR y lo marcas como presentado.
+Estados y cierre. Situación, resultados, cambios en el patrimonio y flujo de efectivo, con comparativo y notas. Quedan registrados quién preparó, quién revisó y el contador. Todo se descarga en Excel.
+## Qué incluye
+Bot de Gmail que trae las facturas solas, y carga de XML y PDF.
+Panel de ingresos y gastos por cliente, con el IVA separado por tarifa.
+Aviso de facturas rechazadas por Hacienda (no se suman en ningún total).
+Asientos automáticos y manuales con partida doble, libro diario, mayor y balance de comprobación.
+Estados financieros NIIF para PYMES.
+IVA y formulario 150 con prorrata, bancos y conciliación, inventario con kárdex, planilla y activos fijos.
+Renta, calendario de obligaciones y cierre con firmas, carta de encargo y libros.
+Mini Close, un asistente que responde con los datos de tus clientes, solo los que tú puedes ver.
+## Míralo en siete minutos
+El tutorial recorre un mes completo de una ferretería de ejemplo, de la factura al cierre, con los pasos reales de la aplicación. También está en YouTube. Todos los datos que se ven son inventados.
+## Cuánto cuesta
+Se paga por cliente activo del mes: el que recibió facturas o movimientos. Los clientes sin movimiento no cuestan y los usuarios tampoco. Hay un plan sin mensualidad para empezar y se puede probar gratis con un cliente. Los planes y precios vigentes están siempre en cont.finance.
+## ¿Para quién es?
+Para contadores independientes y despachos contables que llevan varios clientes y reciben muchas facturas. No reemplaza tu criterio de contador: hace la parte repetitiva (digitar, clasificar, calcular) y tú te quedas con lo que de verdad necesita a un contador: revisar, decidir y firmar. Si tu necesidad es más amplia, mira la guía de automatización de negocios o cómo automatizar las facturas electrónicas de Hacienda.
+## Preguntas frecuentes
+¿Qué es un cliente activo?
+Un cliente tuyo al que en el mes le entró al menos una factura, se le cargó un movimiento de banco o le hiciste un asiento. Si un cliente no tuvo movimiento ese mes, no pagas por él.
+¿Mis clientes tienen que usar Gmail?
+No. El bot lee el Gmail donde ya llegan las facturas, pero si el correo es otro puedes arrastrar los archivos XML o PDF, o reenviarlos. La contabilidad funciona igual.
+¿Reemplaza mi criterio de contador?
+No. Hace la parte repetitiva y tú te quedas con revisar, decidir y firmar. Lo que viene de PDF queda marcado para que lo revises.
+¿Qué pasa con las facturas que Hacienda rechazó?
+Se avisan y no se suman en ningún total: ni en el IVA, ni en los asientos, ni en el panel, ni en el Excel.
+¿Cada persona de mi equipo ve todo?
+No. Tú decides a qué clientes entra cada asistente; nadie ve un cliente que no le diste. Las cuentas no se comparten entre despachos.
+¿Funciona en el celular?
+Sí. Se instala como una app en el teléfono y funciona bien en pantalla pequeña.
+## ¿Quieres verlo con un cliente tuyo?
+Pruébalo gratis en cont.finance o escríbenos por WhatsApp y te lo mostramos.
+Escríbenos por WhatsApp
+### Sigue leyendo
+Automatización de negocios en Costa Rica: qué es, qué se puede automatizar y cómo empezar
+Chatbot de WhatsApp con IA para tu negocio en Costa Rica
+Cómo automatizar el registro de facturas electrónicas de Hacienda
+Recursos en GitHub

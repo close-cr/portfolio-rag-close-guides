@@ -1,0 +1,57 @@
+URL: https://closecr.com/automatizar-facturas-electronicas-costa-rica.html
+TITULO: Automatizar facturas electrónicas de Hacienda en Costa Rica | CLOSE
+
+Automatizar facturas electrónicas de Hacienda en Costa Rica | CLOSE
+Contabilidad
+# Cómo automatizar el registro de facturas electrónicas de Hacienda
+Actualizado el 26 de octubre de 2026 · Por CLOSE, Costa Rica
+Si recibes decenas o cientos de facturas electrónicas al mes y alguien las pasa una por una a una hoja o a un sistema, ese trabajo se puede hacer solo. Aquí explicamos cómo funciona, qué cuidados tiene y qué resultado se puede esperar.
+## El problema: cada factura se digita a mano
+Las facturas electrónicas de Costa Rica llegan por correo, normalmente en dos archivos: un PDF para leer y un XML con los datos. Cuando alguien las pasa a mano al control del cliente —emisor, fecha, montos, IVA, moneda— cada factura toma minutos, y en un despacho con muchos clientes eso se convierte en días. Además, cada digitación es una oportunidad de error.
+## Qué trae el XML de una factura electrónica
+La clave numérica de 50 dígitos, que identifica la factura de forma única y sirve para no duplicarla.
+El emisor y el receptor, la fecha y la moneda (con el tipo de cambio cuando es en dólares).
+Cada línea con su producto, su monto y su tarifa de IVA. Una misma factura puede traer líneas al 1 %, 2 %, 4 % y 13 %.
+Los totales: venta neta, impuestos, IVA devuelto y otros cargos.
+Aparte viaja la respuesta de Hacienda, otro XML que dice si aceptó, aceptó parcialmente o rechazó el comprobante.
+## Cómo lo automatizamos
+Llega la factura. Por correo o subiendo el archivo, igual que hoy.
+El sistema la lee. Lo hace directamente desde el XML, que es exacto. Si solo hay un PDF, usa inteligencia artificial y verifica que los números cuadren con los totales.
+La clasifica. Separa gasto de ingreso, la asigna al cliente correcto y evita duplicados gracias a la clave de 50 dígitos.
+Queda en el balance. Se actualizan las cuentas y se puede exportar a Excel con el desglose por tarifa de IVA.
+Lo dudoso queda «por revisar». Lo que el sistema no puede confirmar, por ejemplo un tiquete sin cédula del receptor, se marca para que la contadora decida.
+## Los detalles que hacen la diferencia
+Notas de crédito que restan. Las notas de crédito restan y las de débito suman. Si se tratan como facturas normales, los totales salen mal.
+IVA por tarifa. Se guarda el IVA línea por línea, de modo que las facturas con varias tarifas cuadran exacto con el total y se puede preparar el reporte para la declaración.
+Dólares. Se conserva el importe original en dólares y se convierte a colones con el tipo de cambio que trae la propia factura, el de su fecha de emisión, no el de hoy.
+Otros cargos e impuestos. El servicio del 10 % de restaurantes, el IVA devuelto de pagos con tarjeta y los impuestos que ya vienen incluidos en el precio se tratan aparte, para que el total no «no dé».
+Clasificación una sola vez. La contadora define la categoría, si es deducible y si el IVA es acreditable para un proveedor, y esa regla se aplica a las facturas siguientes. La decisión sigue siendo de la contadora.
+## Un caso real
+Despacho contable
+2 días → 10 min
+Una contadora recibía las facturas de sus clientes y las pasaba una por una a su control. Hoy llegan por correo o las sube, el sistema las lee y quedan en el balance de cada cliente. Una tarea que le tomaba 2 días a un asistente quedó lista en unos 10 minutos, y ella revisa en vez de digitar.
+El sistema se probó con más de 800 documentos electrónicos reales, entre facturas, tiquetes y notas de crédito y de débito, incluidos documentos en dólares.
+Este trabajo vive en Cont Finance, la plataforma de CLOSE para despachos contables que manejan muchos clientes.
+## Quién decide qué
+El sistema registra y ordena las facturas que ya recibiste. No reemplaza al contador ni a la contadora: ellos siguen decidiendo qué es deducible y cómo se presenta cada cosa.
+## ¿Para quién sirve?
+Para despachos contables con muchos clientes, contadores independientes y empresas que reciben un volumen alto de facturas de proveedores. Si tu necesidad es más amplia, mira la guía de automatización de negocios.
+## Preguntas frecuentes
+¿Funciona con facturas en PDF o solo con XML?
+Con ambos. El XML es lo más exacto. El PDF se lee con inteligencia artificial y los números se verifican contra los totales; lo que no cuadra queda marcado para revisión.
+¿Qué pasa con las facturas que se repiten?
+No se duplican: la clave de 50 dígitos identifica cada factura de forma única.
+¿Y las notas de crédito y las facturas en dólares?
+Las notas de crédito restan y las de débito suman. Las facturas en dólares conservan su importe original y se convierten a colones con el tipo de cambio de su propia fecha de emisión.
+¿Los clientes de un despacho quedan separados?
+Sí. Cada despacho tiene sus clientes aislados de los demás y, dentro de un despacho, se puede dar a cada persona acceso solo a ciertos clientes.
+¿Cuánto tarda en configurarse?
+Se empieza con un cliente y unas pocas facturas para validar que todo cuadre antes de cargar el resto. Te damos un estimado de tiempo y costo antes de empezar.
+## ¿Cuántas facturas registras a mano al mes?
+Cuéntanos cuántas son y cómo te llegan, y coordinamos una llamada corta para ver cómo se aplicaría en tu caso.
+Escríbenos por WhatsApp
+### Sigue leyendo
+Automatización de negocios en Costa Rica: qué es, qué se puede automatizar y cómo empezar
+Chatbot de WhatsApp con IA para tu negocio en Costa Rica
+Cont Finance: la contabilidad de tus clientes, casi sin digitar
+Recursos en GitHub

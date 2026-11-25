@@ -1,0 +1,58 @@
+URL: https://closecr.com/chatbot-whatsapp-costa-rica.html
+TITULO: Chatbot de WhatsApp con IA para negocios en Costa Rica | CLOSE
+
+Chatbot de WhatsApp con IA para negocios en Costa Rica | CLOSE
+WhatsApp con IA
+# Chatbot de WhatsApp con IA para tu negocio en Costa Rica
+Actualizado el 26 de octubre de 2026 · Por CLOSE, Costa Rica
+Un chatbot de WhatsApp responde las preguntas de siempre, toma pedidos y agenda citas a cualquier hora, y le pasa a una persona lo que no sabe resolver. Aquí te explicamos qué hace, cómo funciona, qué necesitas para empezar y qué reglas de WhatsApp hay que tener en cuenta.
+## Qué puede hacer un chatbot en tu WhatsApp
+Responder preguntas frecuentes (horarios, precios, ubicación, servicios) con la información que tú le das.
+Agendar, mover y cancelar citas revisando tu calendario real.
+Tomar pedidos y confirmarlos.
+Mandar recordatorios y confirmaciones.
+Avisarte a ti o a tu equipo cuando una conversación necesita a una persona.
+Registrar cada conversación o pedido en tu hoja de cálculo o sistema.
+## Qué no hace (y por qué importa)
+Un buen chatbot no inventa. Se le da una lista acotada de temas y de información, y cuando algo se sale de ahí avisa a una persona en lugar de adivinar. Tampoco cierra ventas complicadas ni negocia: eso lo sigues haciendo tú, pero con el cliente ya identificado y la conversación resumida.
+No es lo mismo que las respuestas automáticas de la app de WhatsApp Business, que son mensajes fijos. Un chatbot con inteligencia artificial entiende lo que escribe cada persona, consulta tus datos y actúa: agenda, registra, avisa.
+## Cómo funciona por dentro, sin tecnicismos
+El cliente escribe a tu número de WhatsApp Business.
+El mensaje llega a un flujo de automatización (por ejemplo con n8n) que entiende qué quiere la persona usando inteligencia artificial.
+El flujo consulta lo necesario: tu calendario, tu lista de precios, tu hoja de pedidos.
+Responde por el mismo chat y, si hace falta, avisa a una persona. Todo queda registrado.
+Para esto se usa la plataforma oficial de WhatsApp Business de Meta.
+## Un ejemplo real: un agente que agenda citas
+Construimos un agente de WhatsApp que maneja una agenda de citas de punta a punta: responde preguntas sencillas del negocio, calcula los horarios libres leyendo el calendario real de Google, deja que el cliente agende o cancele, evita que dos personas reserven la misma hora y le avisa al dueño con un enlace al evento. Usa el calendario de Google que el dueño ya tiene, así que cualquier bloqueo que él haga a mano, el agente lo respeta.
+Lo construimos para la propia agenda de CLOSE. Adaptarlo a tu negocio es cambiar los servicios, los horarios y las respuestas.
+## Reglas de WhatsApp que hay que tener en cuenta
+Ventana de 24 horas. Con la plataforma oficial puedes responder libremente a quien te escribió durante las 24 horas siguientes a su último mensaje. Para escribirle después, o para iniciar tú la conversación, Meta exige mensajes de plantilla aprobados con anticipación.
+Costos de Meta. La plataforma oficial puede cobrar por ciertos mensajes, sobre todo los de plantilla, según las tarifas vigentes de Meta. Lo revisamos y te lo explicamos antes de empezar para que no haya sorpresas.
+Tu número. Se necesita un número de WhatsApp Business conectado a la plataforma. Si quieres conservar el número que ya usas con tus clientes, en la llamada revisamos qué opciones hay.
+Transparencia. Recomendamos avisar en el primer mensaje que se está hablando con un asistente automático y ofrecer siempre la opción de hablar con una persona.
+## Qué necesitas para empezar
+Un número de WhatsApp Business (o decidir cuál usar).
+Las preguntas que más te hacen, con sus respuestas.
+Tus servicios, precios y horarios, o el calendario que ya usas.
+Quién recibe los avisos cuando el chatbot necesita a una persona.
+## ¿Para qué tipo de negocio sirve?
+Clínicas y consultorios (citas), tiendas y negocios con catálogo (pedidos y preguntas), academias y servicios con agenda, talleres, restaurantes y, en general, cualquier negocio donde la gente pregunta lo mismo muchas veces al día. Si quieres ver el panorama completo de lo que se puede automatizar, lee la guía de automatización de negocios.
+## Preguntas frecuentes
+¿Puedo usar mi número actual de WhatsApp?
+Depende de cómo lo uses hoy. Lo revisamos en una llamada corta y te decimos las opciones antes de empezar.
+¿Entiende audios o fotos?
+Depende de lo que necesite tu caso. El texto es lo más confiable y es lo primero que se arma; los audios y las imágenes se pueden agregar y se prueban caso por caso.
+¿Qué pasa si no sabe responder?
+No inventa. Avisa a una persona y le pasa el resumen de la conversación.
+¿Quién ve las conversaciones?
+Tú y tu equipo. Para generar la respuesta, el texto se procesa con servicios de inteligencia artificial; en la llamada te explicamos cuáles se usan y qué datos pasan por ellos.
+¿Cuánto tarda en estar listo?
+Un chatbot de preguntas frecuentes es lo más rápido; si además usa calendario, pedidos o registros, toma más. Te damos un estimado de tiempo y costo antes de empezar.
+## ¿Qué te preguntan siempre por WhatsApp?
+Cuéntanos qué preguntas o tareas se repiten y coordinamos una llamada corta para ver qué puede hacer un chatbot por tu negocio.
+Escríbenos por WhatsApp
+### Sigue leyendo
+Automatización de negocios en Costa Rica: qué es, qué se puede automatizar y cómo empezar
+Cómo automatizar el registro de facturas electrónicas de Hacienda
+Cont Finance: la contabilidad de tus clientes, casi sin digitar
+Recursos en GitHub

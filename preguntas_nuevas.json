@@ -1,0 +1,21 @@
+{
+  "dentro_del_alcance": [
+    {"pregunta": "¿Qué puede hacer un chatbot en mi WhatsApp?", "docs": ["chatbot-whatsapp-costa-rica"], "contiene": ["responder preguntas frecuentes"]},
+    {"pregunta": "¿El chatbot entiende audios y fotos?", "docs": ["chatbot-whatsapp-costa-rica"], "contiene": ["el texto es lo mas confiable"]},
+    {"pregunta": "¿Cómo trabaja CLOSE con un cliente nuevo, paso a paso?", "docs": ["automatizacion-de-negocios-costa-rica"], "contiene": ["nos cuentas como trabajas hoy"]},
+    {"pregunta": "¿Mis clientes deben usar Gmail para Cont Finance?", "docs": ["cont-finance-contabilidad-automatica-costa-rica"], "contiene": ["no. el bot lee el gmail"]},
+    {"pregunta": "¿Qué datos trae el XML de una factura electrónica?", "docs": ["automatizar-facturas-electronicas-costa-rica"], "contiene": ["clave numerica"]},
+    {"pregunta": "¿Qué pasa con las facturas que solo tengo en PDF?", "docs": ["automatizar-facturas-electronicas-costa-rica", "cont-finance-contabilidad-automatica-costa-rica"], "contiene": ["inteligencia artificial", "se lee y queda marcado"]},
+    {"pregunta": "¿Cuáles son las señales de que me conviene automatizar?", "docs": ["automatizacion-de-negocios-costa-rica"], "contiene": ["mas de una hora al dia"]},
+    {"pregunta": "¿Quién decide qué es deducible, el sistema o la contadora?", "docs": ["automatizar-facturas-electronicas-costa-rica"], "contiene": ["siguen decidiendo"]},
+    {"pregunta": "¿Funciona Cont Finance en el celular?", "docs": ["cont-finance-contabilidad-automatica-costa-rica"], "contiene": ["se instala como una app"]},
+    {"pregunta": "¿Puedo conservar mi número actual de WhatsApp para el chatbot?", "docs": ["chatbot-whatsapp-costa-rica"], "contiene": ["depende de como lo uses hoy"]}
+  ],
+  "fuera_de_alcance": [
+    "¿Quién es el presidente de Costa Rica?",
+    "¿Cuántos goles metió Messi?",
+    "¿Qué es la fotosíntesis?",
+    "¿Cómo reseteo mi router?",
+    "¿Cuál es el precio del dólar hoy?"
+  ]
+}
